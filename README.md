@@ -2,8 +2,6 @@
   :v: Howdy
 </h1>
 
----
-
 <div id="image" align="center">
   <img src="https://i.giphy.com/media/jAe22Ec5iICCk/giphy.webp" width="220" />
 </div>
