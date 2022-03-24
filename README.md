@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 
+
+<img src="https://i.giphy.com/media/jAe22Ec5iICCk/giphy.webpf" width="200"/>
 
 <!--
 **hoxu-1/hoxu-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
