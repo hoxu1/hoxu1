@@ -2,8 +2,12 @@
   :v: Howdy
 </h1>
 
-<div id="image" align="center">
+<div id="image">
   <img src="https://i.giphy.com/media/jAe22Ec5iICCk/giphy.webp" width="220" />
+</div>
+
+<div>
+  <p> :atom: Currently working on -><a href = "https://github.com/hoxu-1/Mechanics-js-simulation"> Mechanics-js-simulation </a></p>
 </div>
 
 <!--- 
@@ -13,5 +17,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoxu-1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://media3.giphy.com/media/y9xWYvdjnD5hrBM7rU/giphy.gif" width="200" />
-<img src="https://media2.giphy.com/media/07B535PpLCoepQCgjN/giphy.gif" width="200" />
